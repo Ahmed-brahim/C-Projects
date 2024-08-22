@@ -1,0 +1,14 @@
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\bin\Debug\net8.0\Employee salary calculator using inheritance.exe
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\bin\Debug\net8.0\Employee salary calculator using inheritance.deps.json
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\bin\Debug\net8.0\Employee salary calculator using inheritance.runtimeconfig.json
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\bin\Debug\net8.0\Employee salary calculator using inheritance.dll
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\bin\Debug\net8.0\Employee salary calculator using inheritance.pdb
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\Employee salary calculator using inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\Employee salary calculator using inheritance.AssemblyInfoInputs.cache
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\Employee salary calculator using inheritance.AssemblyInfo.cs
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\Employee salary calculator using inheritance.csproj.CoreCompileInputs.cache
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\Employee salary calculator using inheritance.dll
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\refint\Employee salary calculator using inheritance.dll
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\Employee salary calculator using inheritance.pdb
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\Employee salary calculator using inheritance.genruntimeconfig.cache
+D:\College\skills\Full Stack\back end\C#\C# Projects\Employee salary calculator using inheritance\obj\Debug\net8.0\ref\Employee salary calculator using inheritance.dll
